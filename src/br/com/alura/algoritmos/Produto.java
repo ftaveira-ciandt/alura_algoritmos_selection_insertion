@@ -17,7 +17,5 @@ public class Produto {
     public String getNome() {
         return nome;
     }
-    public String toString() {
-        return "Produto: "+this.nome+" Preço: "+this.preco;
-    }
+
 }
